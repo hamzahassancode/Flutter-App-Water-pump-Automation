@@ -1,21 +1,13 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-    <title>Water Management System App</title>
-</head>
+<h1>Water Management System App</h1>
 
-<body>
+<h2>Overview</h2>
 
-    <h1>Water Management System App</h1>
+<p>The Water Management System App is a comprehensive solution designed to monitor and manage water processes within homes. It provides real-time readings of water levels, temperature, and allows users to control water-related systems.</p>
 
-    <h2>Overview</h2>
+<h2>Features</h2>
 
-    <p>The Water Management System App is a comprehensive solution designed to monitor and manage water processes within homes. It provides real-time readings of water levels, temperature, and allows users to control water-related systems.</p>
-
-    <h2>Features</h2>
-
-    <ul>
+<ul>
         <li><strong>Multi-Platform Application:</strong> Built using Dart and Flutter, supporting Android, iOS, desktop, and web platforms.</li>
         <li><strong>Authentication:</strong> Secure sign-up and login processes for both users and tankers, utilizing Firebase Authenticate for password security.</li>
         <li><strong>User-Friendly Interface:</strong> Intuitive design for easy interaction with the system, displaying tank readings and empowering users to control water processes.</li>
@@ -23,11 +15,11 @@
         <li><strong>Manual and Automatic Control:</strong> Users can manually control water motors and electric geysers or opt for automatic modes based on predefined thresholds.</li>
         <li><strong>Billing System:</strong> Allows users to track daily and monthly water consumption, providing insights for better water management.</li>
         <li><strong>Tanker Request System:</strong> Facilitates communication between users and tankers, enabling users to request water delivery and tankers to respond.</li>
-    </ul>
+ </ul>
 
-    <h2>Installation</h2>
+<h2>Installation</h2>
 
-    <ol>
+ <ol>
         <li>Clone the repository:
             <pre><code>git clone https://github.com/yourusername/water-management-app.git</code></pre>
         </li>
@@ -42,9 +34,9 @@
         </li>
     </ol>
 
-    <h2>Usage</h2>
+ <h2>Usage</h2>
 
-    <ol>
+ <ol>
         <li>Open the app and sign up or log in.</li>
         <li>Navigate through the various sections:
             <ul>
@@ -58,29 +50,25 @@
         <li>Customize settings, profile, and manage preferences in the respective sections.</li>
     </ol>
 
-    <h2>Technologies Used</h2>
+ <h2>Technologies Used</h2>
 
-    <ul>
+ <ul>
         <li>Flutter</li>
         <li>Dart</li>
         <li>Firebase (Authentication, Firestore)</li>
         <li>Socket.IO for real-time communication</li>
     </ul>
 
-    <h2>Contributors</h2>
+   <h2>Contributors</h2>
 
-    <ul>
+   <ul>
         <li><a href="https://github.com/yourusername">Your Name</a></li>
         <li><a href="https://github.com/anothercontributor">Another Contributor</a></li>
     </ul>
 
-    <h2>License</h2>
+ <h2>License</h2>
 
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-</body>
-
-</html>
+  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/e5fd25a2-d421-41da-8fb5-d124faec6420)
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/eb155c59-faa6-4ff2-b0c9-b4d63c5fc113)
