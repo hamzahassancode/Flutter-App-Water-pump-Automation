@@ -17,22 +17,6 @@
         <li><strong>Tanker Request System:</strong> Facilitates communication between users and tankers, enabling users to request water delivery and tankers to respond.</li>
  </ul>
 
-<h2>Installation</h2>
-
- <ol>
-        <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/water-management-app.git</code></pre>
-        </li>
-        <li>Navigate to the project directory:
-            <pre><code>cd water-management-app</code></pre>
-        </li>
-        <li>Install dependencies:
-            <pre><code>flutter pub get</code></pre>
-        </li>
-        <li>Run the application:
-            <pre><code>flutter run</code></pre>
-        </li>
-    </ol>
 
  <h2>Usage</h2>
 
@@ -59,11 +43,10 @@
         <li>Socket.IO for real-time communication</li>
     </ul>
 
-   <h2>Contributors</h2>
+   <h2>Owner</h2>
 
    <ul>
-        <li><a href="https://github.com/yourusername">Your Name</a></li>
-        <li><a href="https://github.com/anothercontributor">Another Contributor</a></li>
+        <li><a href="https://github.com/hamzahassancode">Your Name</a></li>
     </ul>
 
  <h2>License</h2>
