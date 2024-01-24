@@ -1,8 +1,8 @@
 <h1>Water Management System App</h1>
-<h1>Overview</h1>
+<h2>Overview</h2>
 The Water Management System App is a comprehensive solution designed to monitor and manage water processes within homes. It provides real-time readings of water levels, temperature, and allows users to control water-related systems.
 
-<h1>Features</h1>
+<h2>Features</h2>
 Multi-Platform Application: Built using Dart and Flutter, supporting Android, iOS, desktop, and web platforms.
 
 Authentication: Secure sign-up and login processes for both users and tankers, utilizing Firebase Authenticate for password security.
