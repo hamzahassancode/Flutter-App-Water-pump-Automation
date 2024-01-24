@@ -1,3 +1,21 @@
+##Water Management System App
+Overview
+The Water Management System App is a comprehensive solution designed to monitor and manage water processes within homes. It provides real-time readings of water levels, temperature, and allows users to control water-related systems.
+
+Features
+Multi-Platform Application: Built using Dart and Flutter, supporting Android, iOS, desktop, and web platforms.
+
+Authentication: Secure sign-up and login processes for both users and tankers, utilizing Firebase Authenticate for password security.
+
+User-Friendly Interface: Intuitive design for easy interaction with the system, displaying tank readings and empowering users to control water processes.
+
+Real-Time Sensor Readings: Continuous updates of water levels and temperature from the hardware system.
+
+Manual and Automatic Control: Users can manually control water motors and electric geysers or opt for automatic modes based on predefined thresholds.
+
+Billing System: Allows users to track daily and monthly water consumption, providing insights for better water management.
+
+Tanker Request System: Facilitates communication between users and tankers, enabling users to request water delivery and tankers to respond.
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/e5fd25a2-d421-41da-8fb5-d124faec6420)
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/eb155c59-faa6-4ff2-b0c9-b4d63c5fc113)
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/ce2dc7ea-2118-40c7-9aaa-9c9558dffc38)
