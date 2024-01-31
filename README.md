@@ -43,12 +43,6 @@
         <li>Socket.IO for real-time communication</li>
     </ul>
 
-   <h2>Owner</h2>
-
-   <ul>
-        <li><a href="https://github.com/hamzahassancode">Your Name</a></li>
-    </ul>
-
 
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/e5fd25a2-d421-41da-8fb5-d124faec6420)
 ![image](https://github.com/hamzahassancode/Flutter-App-Water-pump-Automation/assets/133760155/eb155c59-faa6-4ff2-b0c9-b4d63c5fc113)
